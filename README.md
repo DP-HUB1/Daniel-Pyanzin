@@ -7,7 +7,7 @@ Systems Analyst Portfolio
 NDA соблюдается, документы не содержат конфиденциальных данных.
 
 **Резюме:**  
-https://hh.ru/
+[https://hh.ru/](https://ryazan.hh.ru/resume/1c2d3d03ff0f512d5f0039ed1f4f7143344c34)
 
 **Контакты:**  
 ✉ daniel.pyanzin@bk.ru 
