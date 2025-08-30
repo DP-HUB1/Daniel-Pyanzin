@@ -60,5 +60,5 @@ NDA соблюдается, документы не содержат конфи�
 [Figma] (https://www.figma.com/design/DbaQr17Qb18fqAsjbCVarY/U-Verse?node-id=0-1&p=f&t=yUCwRYyY5sLJIASy-0)
 
 
-[LinkedIn]() 
+[LinkedIn](-) 
 [Telegram] @DanielPyanzin
