@@ -1,4 +1,4 @@
-# Daniel-Pyanzin
+# Daniel Pyanzin
 Systems Analyst Portfolio
 
 Приветствую вас!
@@ -53,6 +53,7 @@ NDA соблюдается, документы не содержат конфи�
 - [BPMN-диаграммы (Camunda) Процесс отбора преподавателей U-Verse](https://github.com/DP-HUB1/Daniel-Pyanzin/blob/main/%5BDP%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20U-Verse.pdf)
 - [BPMN-диаграммы (Camunda) Процесс создания курса](https://github.com/DP-HUB1/Daniel-Pyanzin/blob/main/%5BDP%5D%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%83%D1%80%D1%81%D0%B0.pdf)
 - [UML Use case](https://github.com/DP-HUB1/Daniel-Pyanzin/blob/main/Use%20case%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.drawio.png)
+- [UML Activity](https://github.com/DP-HUB1/Daniel-Pyanzin/blob/main/UML%20Activity.drawio.png)
     
 - 🎨 **Прототипы UI**  
 [Figma] (https://www.figma.com/design/DbaQr17Qb18fqAsjbCVarY/U-Verse?node-id=0-1&p=f&t=yUCwRYyY5sLJIASy-0)
